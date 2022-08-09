@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FredOkwudili
+- 👋 Hi, I’m @imperialbughunter
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on developing high quality business web and mobile applications
+- 💞️ I’m looking to collaborate with a software development team to develop high quality business web and mobile applications
 - 📫 How to reach me ..
 
 <!---
