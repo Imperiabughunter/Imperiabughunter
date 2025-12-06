@@ -1,4 +1,4 @@
-🚀 Hi, I’m Emperor — Driving Innovation Through Intelligent Engineering
+🚀 Hi, I’m Fred — Driving Innovation Through Intelligent Engineering
 
 I architect scalable, future-focused digital solutions at the intersection of mobile development, AI-driven automation, and intelligent system design. My priority is enabling businesses to operate with greater speed, efficiency, and strategic clarity.
 
