@@ -3,14 +3,13 @@
 I architect scalable digital solutions that sit at the intersection of mobile development, automation, and AI-powered business enablement. My focus is on operational efficiency, accelerated delivery cycles, and high-performance systems that scale.
 
 
----
 
 🧠 Tech Snapshot
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=800&color=0A66C2&center=true&vCenter=true&width=900&lines=Flutter+Engineer+%7C+AI+Automation+Developer;Python+Developer+%7C+Full-Stack+Problem+Solver;Building+Systems+That+Drive+Business+Performance;Turning+Ideas+Into+Production-Ready+Solutions" alt="Typing animation" />
 </p>
----
+
 
 💡 What I Bring to the Table
 
@@ -28,8 +27,6 @@ Business Workflow Optimization — automation + API-driven orchestration for ent
 
 
 
----
-
 🧩 Technical Ecosystem
 
 Domain	Tools & Frameworks
@@ -43,19 +40,16 @@ Enablement	No-code/low-code, API integrations
 
 
 
----
 
 📊 Performance Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imperiabughunter&show_icons=true&theme=default&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&theme=default&hide_border=true" height="160" />
-</p>> Replace YOUR-USERNAME with your GitHub handle.
+</p>
 
 
 
-
----
 
 🚀 Current Innovation Tracks
 
@@ -69,7 +63,6 @@ Automation engines for SMEs and startups
 
 
 
----
 
 🔥 Highlighted Projects
 
@@ -83,7 +76,6 @@ Business Dashboards — analytics, search, workflow logic
 
 
 
----
 
 🤝 Let’s Build Something Impactful
 
